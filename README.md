@@ -23,7 +23,7 @@ Esta es una aplicación web que permite a los usuarios ingresar nombres de amigo
 ![Lista de amigos](./assets/img2.png)
 
 ### Resultado del sorteo
-![Resultado del sorteo](./img3.png)
+![Resultado del sorteo](./assets/img3.png)
 
 ---
 
